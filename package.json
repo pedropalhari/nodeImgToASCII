@@ -1,0 +1,15 @@
+{
+  "name": "imgtoascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-png": "^0.4.3",
+    "sharp": "^0.20.4"
+  }
+}
